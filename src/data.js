@@ -25,7 +25,7 @@ const education = [
     image: 'inter.jpg'
   },
   {
-    school: 'Utkranit Madhyamik School Pratappur',
+    school: 'Utkramit Madhyamik School Pratappur',
     degree: 'Matriculation (10th), BSEB Board 60%',
     years: '2017 – 2018',
     location: 'Jamui, India',
